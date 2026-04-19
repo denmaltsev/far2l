@@ -31,8 +31,8 @@ chmod +x setup_macros.sh
 ```
 
 ## Requirements
-OS: nix based OS.
-Application: far2l must be installed.
+OS: nix based OS.  
+Application: far2l must be installed.  
 Terminal: Standard zsh or bash.
 
 ## Troubleshooting
